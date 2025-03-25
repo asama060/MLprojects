@@ -1,3 +1,3 @@
 Project Overview
 
-Welcome to the Machine Learning Projects Repository! This collection encompasses various projects demonstrating core concepts in machine learning, deep learning, natural language processing (NLP), and computer vision. It includes both deployed applications (built using Flask) and GUI-based apps (using Tkinter). These projects illustrate the potential of machine learning across domains, including medical diagnosis, human activity recognition, image processing, and more.
+Welcome to my repository containing various machine learning, artificial intelligence, and data mining projects. This collection showcases my work in different areas of AI and ML, such as predictive modeling, regression analysis, classification, time series forecasting, and deep learning. Each project demonstrates the use of specific techniques, frameworks, and tools.
